@@ -4,6 +4,8 @@
 
 [우버 엔지니어링 블로그](https://www.uber.com/kr/en/blog/efficient-software-factory/)가 공개한 방법을 정리했습니다.
 
+![우버의 AI 개발 비용 구성 요소](https://cn-geo1.uber.com/image-proc/crop/resizecrop/udam/format%3Dauto/width%3D552/height%3D0/srcb64%3DaHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC91ZGFtLWFzc2V0cy8wOGZkYTRmZS00NzA0LTQ0ZWMtOWNjNi05NjNjNGY5YWNmYzMucG5n)
+
 ## 01. 숫자로 보는 성과
 
 | 지표 | 변화 |
