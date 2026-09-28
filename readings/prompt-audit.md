@@ -4,6 +4,10 @@
 
 Claude Code 2.1.283 버전에 이런 오래된 지침을 찾아주는 **`/checkup prompt-audit`**이 추가됐습니다. CLAUDE.md, 스킬, 에이전트, 커맨드 파일을 읽고 **지금 모델 기준으로 손봐야 할 부분**을 알려줍니다.
 
+![Anthropic 블로그 — Reducing cost and improving performance with Claude Platform](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6aa04a6665e27a80275b0317_og_reducing-cost-and-improving-performance-with-claude-platform%20(1).jpg)
+
+*이미지 출처: [Anthropic 공식 블로그](https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform)*
+
 ## 01. prompt-audit은 무엇을 하는 기능일까?
 
 **내가 Claude Code에 써둔 지침 파일들의 건강검진**이라고 생각하면 이해하기 쉽습니다.
