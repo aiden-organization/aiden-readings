@@ -2,7 +2,7 @@
 
 **"반드시 두 번 확인해", "CRITICAL: 절대로 빠뜨리지 마". 예전 모델이 지시를 자주 놓치던 시절에 써둔 이런 문장이, 지금 모델에게는 오히려 불필요한 작업을 늘릴 수 있습니다.**
 
-Claude Code 2.1.283 버전에 이런 오래된 지침을 찾아주는 **`/checkup prompt-audit`**이 추가됐습니다. CLAUDE.md, 스킬, 에이전트, 커맨드 파일을 읽고 **지금 모델 기준으로 손봐야 할 부분**을 알려줍니다.
+Claude Code 2.1.283 버전에 이런 오래된 지침을 찾아주는 `/checkup prompt-audit`이 추가됐습니다. CLAUDE.md, 스킬, 에이전트, 커맨드 파일을 읽고 **지금 모델 기준으로 손봐야 할 부분**을 알려줍니다.
 
 ![Anthropic 블로그 — Reducing cost and improving performance with Claude Platform](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6aa04a6665e27a80275b0317_og_reducing-cost-and-improving-performance-with-claude-platform%20(1).jpg)
 
